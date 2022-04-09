@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "pg": "^8.2.1",
     "venom-bot": "^1.0.9"
   }
